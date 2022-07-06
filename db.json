@@ -1,0 +1,64 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Arnica montana, Echinacea, Boron Gluconate, Symphytum officinale, Hekla lava, Calcarea carbonica, Calcarea fluorica,",
+      "author": "Sonia Farrimond",
+      "cost": 59865
+    },
+    {
+      "id": 2,
+      "title": "Ibuprofen",
+      "author": "Quent Jobbing",
+      "cost": 10676
+    },
+    {
+      "id": 3,
+      "title": "Sertraline Hydrochloride",
+      "author": "Katey Wardall",
+      "cost": 32209
+    },
+    {
+      "id": 4,
+      "title": "Duloxetine",
+      "author": "Frank Henrot",
+      "cost": 18403
+    },
+    {
+      "id": 5,
+      "title": "Avobenzone, Octisalate, Zinc Oxide, Octinoxate, and Oxybenzone",
+      "author": "Guido Gertz",
+      "cost": 36134
+    },
+    {
+      "id": 6,
+      "title": "levofloxacin",
+      "author": "Idette Jachimak",
+      "cost": 37301
+    },
+    {
+      "id": 7,
+      "title": "Mucor plumbeus",
+      "author": "Avery Archbell",
+      "cost": 82173
+    },
+    {
+      "id": 8,
+      "title": "Nitrofurantion Macrocrystals",
+      "author": "Joete Mervyn",
+      "cost": 94054
+    },
+    {
+      "id": 9,
+      "title": "Triamcinolone Acetonide",
+      "author": "Tobey Lordon",
+      "cost": 7060
+    },
+    {
+      "id": 10,
+      "title": "Aspirin",
+      "author": "Annabella MacPhee",
+      "cost": 80691
+    }
+  ]
+}
